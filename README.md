@@ -1,6 +1,6 @@
 # Calculator-JavaScript
 Calculator that uses a simple and intuitive interface to perform basic arithmetic operations.
-<!DOCTYPE html>
+
 <html>
 
 

@@ -4,7 +4,7 @@ Calculator that uses a simple and intuitive interface to perform basic arithmeti
 <html>
 
 
-<p><a href = "https://piotr0893.github.io/Calculator-JavaScript/Calculator.html/">Click Here To See</a></p>
+<p><a href = "https://piotr0893.github.io/Calculator-JavaScript/Calculator.html">Click Here To See</a></p>
 <br/>
 </html>
 
